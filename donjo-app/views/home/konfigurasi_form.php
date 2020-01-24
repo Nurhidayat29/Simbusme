@@ -19,7 +19,7 @@
 								<img class="profile-user-img img-responsive img-circle" src="<?= base_url()?>assets/files/logo/home.png" alt="Logo">
 							<?php endif ?>
 							<br/>
-							<p class="text-center text-bold">Lambang Desa</p>
+							<p class="text-center text-bold">Lambang</p>
 							<p class="text-muted text-center text-red">(Kosongkan, jika logo tidak berubah)</p>
 							<br/>
 							<div class="input-group input-group-sm">
